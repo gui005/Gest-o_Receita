@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2e2POFMjql3wr90EAX6lUX2Tj3aDEomU79HhPCSmYJ+enNTvOSMv+dfuM+09dJPUv2H9JfLa9ubFI9JSHmNKZw==",
+  "dgSpecHash": "zMLyg48Z/2xV82mfQcxB9EtQ7+2cIjXtdsHSABFdeyS4Kg48UTftLNvEMKe/vtB8XmKBEQTF1TfFyqXJJD8qdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\C# Web API\\Senac.GestaoReceita.WebAPI\\Senac.GestaoReceita.WebAPI\\Senac.GestaoReceita.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\Senac.GestaoReceita.WebAPI\\Senac.GestaoReceita.WebAPI\\Senac.GestaoReceita.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
